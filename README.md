@@ -1,72 +1,39 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Review one of your past projects
 
-> Description the project.
-
+> In the previous lessons, I got an introduction to the code review process and improved my HTML and CSS skills. That means that I'm are ready to perform a code review on my code from the trials!
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Html and Css
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Click on the green code button and copy the link of the Repository
+- https://github.com/FredsephT32/Role-the-Code-Reviewer-Trials.git
+- CLone the Repository in your Github Desktop or Git Bash.
+- And Open the Folder In your Text Editor
 
 ## Authors
 
-👤 **Author1**
+👤 **Author Frederick**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: @FredsephT32
+- Twitter: @lil Fritz
+- LinkedIn: @Frederick-Torres
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a ♠ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- A review from one of my Trials back in June 2022.
 
 ## 📝 License
 

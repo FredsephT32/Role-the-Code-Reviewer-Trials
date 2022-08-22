@@ -1,0 +1,68 @@
+#main {
+    background-color: rgba(114, 93, 93, 0.37);
+    width: 100%;
+}
+
+#title {
+    text-align: center;
+    font-size: 70px;
+    padding: 10px;
+
+}
+#subheader{
+   text-align: center;
+   font-family: sans-serif;
+   padding: 5px; 
+   font-size: 28px;
+}
+
+
+#image {
+    max-width: 60%;
+    height:50%;
+    margin-top: 10px;
+    border: 1px solid   black;
+}
+
+#img-caption{
+    font-size: 12px;
+    font-style: italic;
+  }
+#img-div{
+    margin:auto;
+    
+}
+#tribute-info{
+  padding-left: 50px;
+  padding-right: 50px;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-size: 25px;
+    font-style: underline ,italic;
+    line-height: 0px;
+   text-align: center;
+}
+
+
+
+#tribute-link{
+    background:lightgray;
+    text-align: center;
+    grid-area: footer;
+    padding: 20px;;
+    font-size: 20px;
+    
+  }
+
+  a{
+      color: black;
+
+  }
+  a:hover{
+     color: blue'
+  }
+  a:active{
+      color:red;
+  }
